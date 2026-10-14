@@ -1,0 +1,12 @@
+StarDict's dict ifo file
+version=2.4.2
+wordcount=147235
+synwordcount=73
+idxfilesize=3015979
+synfilesize=1248
+bookname=English-Croatian Dictionary
+sametypesequence=h
+description=English to Croatian dictionary (WordNet 3 Easy, CroWN/OMW, FreeDict, EH, Wiktionary)
+author=Generated from WordNet 3 Easy, CroWN (OMW), FreeDict, EH, Wiktionary
+website=
+date=2026.10.14

@@ -1,0 +1,12 @@
+# Scratch / intermediate build output (regenerable)
+/work/
+/stardict/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
